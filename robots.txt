@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aungeihoo.comedywriters.co.uk/sitemap.xml
